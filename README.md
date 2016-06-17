@@ -1,2 +1,3 @@
 # jgit_test
-just use jgit
+just test jgit
+
